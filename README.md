@@ -33,9 +33,8 @@ plotly: Interactive visualization library
 ### Datasets Used
 The following dataset needs to be installed before running the code
 
-```
-Indian Premier League 2008-2019 : https://www.kaggle.com/datasets/nowke9/ipldata
-```
+ - Indian Premier League 2008-2019 : https://www.kaggle.com/datasets/nowke9/ipldata
+
 
 ### Installing
 The following commands can be used to install the prerequisites and run the code.
