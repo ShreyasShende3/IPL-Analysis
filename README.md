@@ -48,7 +48,7 @@ pip install pandas dash plotly
 2) Clone the repository
 
 ```
-https://github.com/ShreyasShende3/IPL-Analysis.git
+git clone https://github.com/ShreyasShende3/IPL-Analysis.git
 ```
 3) After cloning change the directory to the directory name
 
@@ -63,7 +63,7 @@ cd IPL-Analysis
 2) Run the Python script:
 
 ```
-python analysis.py
+python main.py
 ```
 
 3) Open a web browser and navigate to http://localhost:8050 to see the interactive visualizations.
